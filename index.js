@@ -54,7 +54,6 @@ As atenções voltadas para vocês.
 
 `);
 
-
 console.log(`
 
 === 5 === Veio de (2) - (Aqui tem teste de "força" adaptado)
@@ -74,7 +73,6 @@ Sem desviar o olhar de você ele desamarra da cintura uma bolsa pesada e a põe 
 
 `);
 
-
 console.log(`
 
 === 7 === Veio de (5) - (Duelo)
@@ -93,7 +91,6 @@ comunicá-lo que você irá morrer. Então ele ataca Ele bate no peito em desafi
 =============================================================================================================================================================================
 
 `);
-
 
 console.log(`
 
@@ -117,7 +114,6 @@ posição de tremenda desvantagem.
 
 `);
 
-
 console.log(`
 
 === 10 === Veio de (9) - Dano - Verificar vida
@@ -131,7 +127,27 @@ Você se levanta ferido. Reduza 2 pontos de vida. Gazin se desvencilha do corrim
 >> Ação:
 =============================================================================================================================================================================
 (12) Sem demora, você parte atrás do fugitivo.
-
 =============================================================================================================================================================================
 
 `);
+
+console.log(`
+
+=== 12 === Veio de (10) - 
+
+Gazin arremessa de qualquer jeito uma adaga em sua direção para atrasá-lo, mas você desvia com facilidade. Você o alcança no último degrau da escada que leva ao mezanino, 
+onde ficam os dormitórios. Sua mão se fecha, agarrando um pedaço da calça do bandido, mas você tropeça e ele se desvencilha dando um chute em seu rosto. Reduza 1 ponto de
+vida.
+
+Antes que você consiga se levantar, ele corre, sobe no parapeito e salta para cima do lustre de lampiões, impulsionando o objeto e a si mesmo através do salão na direção do 
+outro lado do mezanino, de onde poderá acessar alguns quartos. Talvez ele esteja tentando apanhar seus pertences antes de fugir, ou talvez esta seja a fuga. Do salão comunal 
+a perseguição é observada como se chegasse ao clímax
+
+>> Ação: 
+=============================================================================================================================================================================
+(13) Você segue seu alvo.
+=============================================================================================================================================================================
+
+`);
+
+
