@@ -17,8 +17,8 @@ console.log(`
 
 === 1 ===
 
-Ao entrar na taverna, acaba por virar o centro das atenções, o novo forasteriro. Seu chapelçao de couro esconde seus traços e identidade, mas todos parecem indiferentes com
-sua presença. Olhando o ambiente Gazin Adagas não parece tê-lo reconhecido, assim como os demais, como oficial do Rei Walfengarr.
+Ao entrar na taverna, acaba por virar o centro das atenções, o novo forasteriro. Seu chapel e roupas de couro esconde seus traços e identidade, mas todos parecem indiferentes 
+com sua presença. Olhando o ambiente Gazin Adagas não parece tê-lo reconhecido, assim como os demais, como oficial do Rei Walfengarr.
 
 Ao olhar melhor para seu alvo, você nota que ele é um homem baixo, com porte largo, mas pouco atlético com uma aparência descuidada e vestimentas rasgadas. Entretando, não
 deixe isso dar motivo para subestimar sua periculosidade.
@@ -31,6 +31,44 @@ vistas podem ser vistas além de um mezanino, protegida por um parapeito. O tarv
 (2) Vá anunciar que veio para levar Gazin Adagas à justiça?
 (3) Vai entra quieto, escolher um lugar e pedir algo, esprando uma oportunidade menos tumultuosa de cumprir seu dever?
 (4) Vai se aproximar de algum indivíduo do salão comunal e puxar conversa?
+=============================================================================================================================================================================
+
+`);
+
+console.log(`
+
+=== 2 === Veio de (1) - (Aqui tem teste de sorte)
+
+- Ora, ora... Você não é de meias-palavras, soldado - Responde Gazin do fundo da taverna.
+
+O ambiente todo para. Silêncio. Um lustre de lampiões preso por uma corrente dá um tom lúgubre ao lugar preso por uma corrente dá um tom lúgubre ao lugar, projetando sombras
+inquietas. Uma escada de madeira leva aos quartos do andar superior, onde pode haver hóspedes.
+
+As atenções voltadas para vocês.
+
+>> Teste sua sorte:
+=============================================================================================================================================================================
+(5) Sucesso! 
+(6) Fracasso! 
+=============================================================================================================================================================================
+
+`);
+
+console.log(`
+
+=== 5 === Veio de (2) - (Aqui tem teste de "força" adaptado)
+
+Gazin enfia a mão dentro da roupa e projeta simultaneamente três adagas de arremesso em sua direção. Você salta para o lado evitando as armas, mas uma delas acerta sua roupa
+e a prende na parede da taverna. 
+
+Sem desviar o olhar de você ele desamarra da cintura uma bolsa pesada e a põe com força a mesa. Ao ser solta, ela se abre revelando uma porção de dinheiro
+
+- Vinte Tibras de ouro para quem jogar este verme para fora da taverna. Cinquenta se fizer com ele morto - incita Gazin!
+
+>> Teste sua força:
+=============================================================================================================================================================================
+(7) Sucesso! 
+(8) Fracasso! 
 =============================================================================================================================================================================
 
 `);
