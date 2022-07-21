@@ -54,6 +54,7 @@ As atenções voltadas para vocês.
 
 `);
 
+
 console.log(`
 
 === 5 === Veio de (2) - (Aqui tem teste de "força" adaptado)
@@ -69,6 +70,26 @@ Sem desviar o olhar de você ele desamarra da cintura uma bolsa pesada e a põe 
 =============================================================================================================================================================================
 (7) Sucesso! 
 (8) Fracasso! 
+=============================================================================================================================================================================
+
+`);
+
+
+console.log(`
+
+=== 7 === Veio de (5) - (Duelo)
+
+Um dos três goblins, com cara de ter algum problema mental, levanta-se rápido e desembainha uma cimitarra apelidada de “amante” por uma inscrição na lâmina. Ele é 
+imediatamente contido pelos outros dois, que o forçam a sentar novamente. O que parece ser o líder do trio usa um barrete de couro enfeitado com uma crista de cabelo branco. 
+Ele faz um gesto de desculpas em sua direção. Então um mercenário humano levanta-se de outra mesa.
+
+Ele traja uma armadura de couro negro e empunha dois machados, um em cada mão, girando-os como prova de habilidade. Ele bate no peito em desafio e faz a gentileza de 
+comunicá-lo que você irá morrer. Então ele ataca Ele bate no peito em desafio e faz a gentileza de comunicá-lo que você irá morrer. Então ele ataca!
+
+>> Duelo:
+=============================================================================================================================================================================
+(9) Vitória!
+(X) Morte!  
 =============================================================================================================================================================================
 
 `);
