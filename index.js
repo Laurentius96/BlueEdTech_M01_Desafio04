@@ -116,3 +116,22 @@ posição de tremenda desvantagem.
 =============================================================================================================================================================================
 
 `);
+
+
+console.log(`
+
+=== 10 === Veio de (9) - Dano - Verificar vida
+
+Com a disputa já próxima da lareira no centro da taverna, seu adversário tenta esfregar seu rosto nas brasas incandescentes. Enquanto seu pescoço de ferro resiste à força dos 
+braços de Gazin, você consegue colocar uma de suas próprias pernas entre você e ele. Com um empurrão poderoso, você tira o homem de cima de seu corpo e o arremessa contra as
+escadarias no fundo da taverna.
+
+Você se levanta ferido. Reduza 2 pontos de vida. Gazin se desvencilha do corrimão quebrado pelo choque e começa a subir as escadas para o segundo andar do Dragão Morto.
+
+>> Ação:
+=============================================================================================================================================================================
+(12) Sem demora, você parte atrás do fugitivo.
+
+=============================================================================================================================================================================
+
+`);
