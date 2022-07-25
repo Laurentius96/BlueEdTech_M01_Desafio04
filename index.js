@@ -126,7 +126,7 @@ Você se levanta ferido. Reduza 2 pontos de vida. Gazin se desvencilha do corrim
 
 >> Ação:
 =============================================================================================================================================================================
-(12) Sem demora, você parte atrás do fugitivo.
+(12) Sem demora, você parte atrás do fugitivo...
 =============================================================================================================================================================================
 
 `);
@@ -145,7 +145,22 @@ a perseguição é observada como se chegasse ao clímax
 
 >> Ação: 
 =============================================================================================================================================================================
-(13) Você segue seu alvo.
+(13) Você segue seu alvo...
+=============================================================================================================================================================================
+
+`);
+
+console.log(`
+
+=== 13 === Veio de (12) - 
+
+Do outro lado, Gazin salta do lustre de volta para o mezanino e entra na primeira porta que encontra, batendo-a atrás de si. Você retorna, vai até a porta e a abre com 
+um chute, sua espada em punho. O quarto está iluminado, porém vazio. O criminoso fugiu por uma janela larga na parede do fundo, direto para o telhado do Dragão Morto. Do 
+lado de fora a chuva parece ter engrossado. Para não perder o fugitivo, você não tem outra escolha senão usar o mesmo caminho.
+
+>> Ação: 
+=============================================================================================================================================================================
+(14) Para não perder o fugitivo, você não tem outra escolha senão usar o mesmo caminho...
 =============================================================================================================================================================================
 
 `);
