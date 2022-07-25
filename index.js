@@ -166,3 +166,21 @@ lado de fora a chuva parece ter engrossado. Para não perder o fugitivo, você n
 `);
 
 
+console.log(`
+
+=== 15 === Veio de (13) - 
+
+No alto, sobre a Taverna do Dragão Morto. A janela agora parece mais uma saída de emergência para escapar da chuva torrencial que castiga a fronteira de Zakharov. O telhado 
+irregular de madeira e sapé está escorregadio. Algumas pedras soltas da construção aguardam como pacientes armadilhas. Você observa Gazin Adagas descer um nível, em direção
+à chaminé que cospe fumaça. Imagina ele ou você mesmo caindo do telhado, quebrando o pescoço ao atingir o chão ou sendo levado pelas águas gélidas do Rio Panteão
+
+Mais adiante você pode ver uma calha terminada em um tubo de metal que desce até a base da taverna. Enquanto você ainda escolhe o melhor caminho por sobre a construção, 
+Gazin já está preparando-se para saltar por cima de um vão até outra seção do telhado, onde pretende alcançar a chaminé e então a calha pela qual pretende descer.
+
+>> O que você fará? - digite o número para escolher: 
+=============================================================================================================================================================================
+(16) Tentar alcançá-lo antes do salto.
+(17) Tentar arremessar algo contra ele.
+=============================================================================================================================================================================
+
+`);
