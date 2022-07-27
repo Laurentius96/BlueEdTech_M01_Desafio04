@@ -133,7 +133,7 @@ Você se levanta ferido. Reduza 2 pontos de vida. Gazin se desvencilha do corrim
 
 console.log(`
 
-=== 12 === Veio de (10) - 
+=== 12 === Veio de (10) - Dano - Verificar vida
 
 Gazin arremessa de qualquer jeito uma adaga em sua direção para atrasá-lo, mas você desvia com facilidade. Você o alcança no último degrau da escada que leva ao mezanino, 
 onde ficam os dormitórios. Sua mão se fecha, agarrando um pedaço da calça do bandido, mas você tropeça e ele se desvencilha dando um chute em seu rosto. Reduza 1 ponto de
@@ -141,7 +141,7 @@ vida.
 
 Antes que você consiga se levantar, ele corre, sobe no parapeito e salta para cima do lustre de lampiões, impulsionando o objeto e a si mesmo através do salão na direção do 
 outro lado do mezanino, de onde poderá acessar alguns quartos. Talvez ele esteja tentando apanhar seus pertences antes de fugir, ou talvez esta seja a fuga. Do salão comunal 
-a perseguição é observada como se chegasse ao clímax
+a perseguição é observada como se chegasse ao clímax.
 
 >> Ação: 
 =============================================================================================================================================================================
@@ -168,7 +168,7 @@ lado de fora a chuva parece ter engrossado. Para não perder o fugitivo, você n
 
 console.log(`
 
-=== 15 === Veio de (13) - 
+=== 14 === Veio de (13) - 
 
 No alto, sobre a Taverna do Dragão Morto. A janela agora parece mais uma saída de emergência para escapar da chuva torrencial que castiga a fronteira de Zakharov. O telhado 
 irregular de madeira e sapé está escorregadio. Algumas pedras soltas da construção aguardam como pacientes armadilhas. Você observa Gazin Adagas descer um nível, em direção
@@ -179,8 +179,8 @@ Gazin já está preparando-se para saltar por cima de um vão até outra seção
 
 >> O que você fará? - digite o número para escolher: 
 =============================================================================================================================================================================
-(16) Tentar alcançá-lo antes do salto.
-(17) Tentar arremessar algo contra ele.
+(15) Tentar alcançá-lo antes do salto.
+(16) Tentar arremessar algo contra ele.
 =============================================================================================================================================================================
 
 `);
